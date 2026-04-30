@@ -17,7 +17,9 @@ Cloud-deployed full-stack task management platform designed to help teams organi
 - Built with Node.js, Express, Supabase/PostgreSQL, Docker, and OCI
 
 ## Skills
-Python, SQL, R, JavaScript, scikit-learn, pandas, NumPy, FastAPI, Node.js, Express, PostgreSQL, Supabase, Docker, GitHub Actions
+- Languages: Python, SQL, JavaScript, R
+- Data Science: scikit-learn, pandas, NumPy, feature engineering, model evaluation
+- Software & Cloud: FastAPI, Node.js, Express, PostgreSQL, Supabase, Docker, GitHub Actions
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/ximena-jara-cordero)
